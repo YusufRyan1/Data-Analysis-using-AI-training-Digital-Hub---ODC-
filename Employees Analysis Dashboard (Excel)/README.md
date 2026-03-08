@@ -131,7 +131,7 @@ These filters allow the dashboard to update all visuals in real time.
 
 # Dashboard Preview
 
-![Employees Dashboard](images/dashboard.png)
+![Employees Dashboard](images/dashboard-preview.png)
 
 ------------------------------------------------------------------------
 
